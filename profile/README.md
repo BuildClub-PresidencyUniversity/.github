@@ -36,7 +36,8 @@ Whether you're a seasoned developer, a budding entrepreneur, or simply curious a
 
 ## Contributing
 
-We welcome contributions from all members! Whether it's organizing events, sharing your expertise, or suggesting improvements, your involvement is invaluable in shaping the Build Club experience.
+We welcome contributions from all members! 
+Whether it's organizing events, sharing your expertise, or suggesting improvements, your involvement is invaluable in shaping the Build Club experience.
 
 ## Connect with Us
 
